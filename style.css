@@ -1,0 +1,17 @@
+.calc{
+    border: 2px solid black;
+    background-color: #84a8e0; 
+    margin: 100px;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+#display{
+    margin-top: 10px;
+    margin-left: 250px;
+    margin-bottom: 50px;
+    width: 200px;
+    text-align: ceenter;
+}
+.numbers{
+    text-align: center;
+}
